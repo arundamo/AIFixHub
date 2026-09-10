@@ -10,9 +10,9 @@ Find actionable fixes for AI tool, model, billing, rate-limit, and SDK issues wi
 
 - [Fix Google AI Studio 429 RESOURCE_EXHAUSTED](ai-studio/429-resource-exhausted.md)
 - [Browse Google AI Studio guides](ai-studio/429-resource-exhausted.md)
-- [Jump to ChatGPT & OpenAI overview](README.md?id=chatgpt--openai)
-- [Jump to Claude & Anthropic overview](README.md?id=claude--anthropic)
-- [Jump to Developer API & SDKs overview](README.md?id=developer-api--sdks)
+- [Jump to ChatGPT & OpenAI overview](README.md?id=chatgpt-openai)
+- [Jump to Claude & Anthropic overview](README.md?id=claude-anthropic)
+- [Jump to Developer API & SDKs overview](README.md?id=developer-api-sdks)
 
 ## What You’ll Find Here
 

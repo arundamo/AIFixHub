@@ -77,4 +77,4 @@ Start with exponential backoff and jitter. Many transient spikes clear in second
 
 - [Return to the master troubleshooting index](../README.md)
 - [Back to the Google AI Studio section](../README.md?id=google-ai-studio)
-- [Jump to Developer API & SDKs overview](../README.md?id=developer-api--sdks)
+- [Jump to Developer API & SDKs overview](../README.md?id=developer-api-sdks)
