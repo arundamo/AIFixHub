@@ -31,7 +31,8 @@ async function callWithBackoff(makeRequest, retries = 5) {
         throw error;
       }
 
-      const delay = 1000 * 2 ** attempt;
+      const jitter = Math.floor(Math.random() * 300);
+      const delay = 1000 * 2 ** attempt + jitter;
       await new Promise((resolve) => setTimeout(resolve, delay));
     }
   }

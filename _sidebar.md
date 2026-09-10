@@ -1,6 +1,6 @@
 - [Master Index](#/)
 - Google AI Studio
-  - [429 RESOURCE_EXHAUSTED](#/ai-studio/429-resource-exhausted.md)
+  - [429 RESOURCE_EXHAUSTED](#/ai-studio/429-resource-exhausted)
 - ChatGPT & OpenAI
   - [Coming Soon](#/?id=chatgpt--openai)
 - Claude & Anthropic
