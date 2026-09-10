@@ -8,11 +8,11 @@ Find actionable fixes for AI tool, model, billing, rate-limit, and SDK issues wi
 
 ### Quick Search Links
 
-- [Fix Google AI Studio 429 RESOURCE_EXHAUSTED](#/ai-studio/429-resource-exhausted)
-- [Browse Google AI Studio guides](#/ai-studio/429-resource-exhausted)
-- [Jump to ChatGPT & OpenAI overview](/?id=chatgpt--openai)
-- [Jump to Claude & Anthropic overview](/?id=claude--anthropic)
-- [Jump to Developer API & SDKs overview](/?id=developer-api--sdks)
+- [Fix Google AI Studio 429 RESOURCE_EXHAUSTED](./#/ai-studio/429-resource-exhausted)
+- [Browse Google AI Studio guides](./#/ai-studio/429-resource-exhausted)
+- [Jump to ChatGPT & OpenAI overview](./#/?id=chatgpt--openai)
+- [Jump to Claude & Anthropic overview](./#/?id=claude--anthropic)
+- [Jump to Developer API & SDKs overview](./#/?id=developer-api--sdks)
 
 ## What You’ll Find Here
 
@@ -25,7 +25,7 @@ Find actionable fixes for AI tool, model, billing, rate-limit, and SDK issues wi
 
 Google AI Studio issues often involve quota limits, model availability, blocked regions, API key restrictions, or malformed requests. Start here if your Gemini or AI Studio workflow returns rate-limit or resource-capacity errors.
 
-- [429 RESOURCE_EXHAUSTED: Resource has been exhausted](#/ai-studio/429-resource-exhausted)
+- [429 RESOURCE_EXHAUSTED: Resource has been exhausted](./#/ai-studio/429-resource-exhausted)
 
 ## ChatGPT & OpenAI
 
