@@ -75,5 +75,5 @@ Start with exponential backoff and jitter. Many transient spikes clear in second
 ### Related guides
 
 - [Return to the master troubleshooting index](/)
-- [Back to the Google AI Studio section](#/ai-studio/429-resource-exhausted)
+- [Back to the Google AI Studio section](/?id=google-ai-studio)
 - [Jump to Developer API & SDKs overview](/?id=developer-api--sdks)
