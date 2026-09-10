@@ -1,4 +1,4 @@
-* [Home](/)
+* [Home](README.md)
 * [Google AI Studio](ai-studio/429-resource-exhausted.md)
 * [ChatGPT & OpenAI](README.md?id=chatgpt--openai)
 * [Claude & Anthropic](README.md?id=claude--anthropic)

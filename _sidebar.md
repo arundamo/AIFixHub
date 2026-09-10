@@ -1,4 +1,4 @@
-- [Master Index](/)
+- [Master Index](README.md)
 - Google AI Studio
   - [429 RESOURCE_EXHAUSTED](ai-studio/429-resource-exhausted.md)
 - ChatGPT & OpenAI
