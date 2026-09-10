@@ -1,9 +1,14 @@
-- [Master Index](README.md)
+- [Overview](README.md)
+
 - Google AI Studio
+  - [Category Overview](README.md?id=google-ai-studio)
   - [429 RESOURCE_EXHAUSTED](ai-studio/429-resource-exhausted.md)
+
 - ChatGPT & OpenAI
-  - [Coming Soon](README.md?id=chatgpt-openai)
+  - [Category Overview](README.md?id=chatgpt-openai)
+
 - Claude & Anthropic
-  - [Coming Soon](README.md?id=claude-anthropic)
+  - [Category Overview](README.md?id=claude-anthropic)
+
 - Developer API & SDKs
-  - [Coming Soon](README.md?id=developer-api-sdks)
+  - [Category Overview](README.md?id=developer-api-sdks)
